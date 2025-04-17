@@ -1,9 +1,5 @@
 <h1 align="center">👋 김인영 Kim Inyoung 👋</h1>
 
-<p align="center">
-  <a href="https://kiminyoung.dev"><img src="https://img.shields.io/badge/TechBlog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
 
 ---
 
