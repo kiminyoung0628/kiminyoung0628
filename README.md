@@ -1,4 +1,4 @@
-<h1 align="center">👋 김인영 Kim Inyoung 👋</h1>
+<h1 align="center">👋 김인영 Kim InYoung 👋</h1>
 
 
 ---
